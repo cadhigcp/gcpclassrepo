@@ -7,7 +7,7 @@ public class Hello
 		b=20;
 		c=a+b;
 		System.out.println("the sum is "+c);
-		c=a-b;
-		System.out.println("the difference is "+c);
+		c=a*b;
+		System.out.println("the product is "+c);
 	}
 }
